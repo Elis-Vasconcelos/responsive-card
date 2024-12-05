@@ -20,6 +20,10 @@ A aplicação adapta-se a diferentes tamanhos de tela, garantindo uma boa experi
 - **Animações** foram aplicadas ao menu hambúrguer, tornando a experiência de navegação mais interativa.
 - **Animações** foram adicionadas ao menu hambúrguer, incluindo transições suaves na abertura e fechamento.
 
+## Aplicação em funcionamento
+
+![desktop-view](images/desktop-ativo.png)
+![mobile-view](images/mobile-ativo.png)
 ## Como Usar
 
 1. Clone este repositório no seu computador.
