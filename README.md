@@ -22,8 +22,14 @@ A aplicação adapta-se a diferentes tamanhos de tela, garantindo uma boa experi
 
 ## Aplicação em funcionamento
 
+### Desktop
+
 ![desktop-view](images/desktop-ativo.png)
+
+### Mobile
+
 ![mobile-view](images/mobile-ativo.png)
+
 ## Como Usar
 
 1. Clone este repositório no seu computador.
