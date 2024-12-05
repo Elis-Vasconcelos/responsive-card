@@ -1,70 +1,28 @@
-# Atividade de Núcleo
+# Responsividade Web - Card de Artigo e Modal
 
-- **Orientadores:** Turma  [Fábio Santos Matos de Oliveira](https://gitlab.com/Fabio-Matos1303) | Turma  [Djair Maykon](https://gitlab.com/djairmaykon) | Turma  [Márcio R. Júnior m](https://gitlab.com/marciojunior2109) 
-- **Coorientadores gerais:** [Raissa Luna](https://gitlab.com/raissalunana) | [Lucas Júlio](https://gitlab.com/LucasJulio)
+## Descrição
 
-## Descrição da atividade
+Este projeto consiste em um **card de artigo sobre a natureza**, implementado de forma responsiva, e um **modal de compartilhamento de redes sociais**, também responsivo. Ambos os elementos foram criados utilizando **HTML**, **CSS** e **JavaScript (DOM API)**.
 
-### Tarefa
+A aplicação adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência de usuário tanto em dispositivos móveis quanto em desktops. O menu de redes sociais funciona como um **menu hambúrguer**, que pode ser aberto e fechado ao clicar no ícone de seta.
 
-Com base no design especificado programe esse card de artigo sobre a natureza de forma responsiva. Além disso vocês devem programar, também de forma responsiva, um pequeno modal de compartilhamento de redes sociais. Para isso use html css e javascript (com DOM API)
+## Funcionalidades
 
-- https://www.figma.com/file/GPYoJZE2zG6qQRau4WgYtd/Responsividade-Web?type=design&node-id=0-1&t=zOeRk5GrBKFE2xpp-0
+- **Card de Artigo Responsivo:** O card apresenta informações sobre um artigo de forma clara e bem estruturada, com imagens e texto ajustando-se adequadamente conforme o tamanho da tela.
+- **Modal de Compartilhamento:** Um modal que permite compartilhar o conteúdo nas redes sociais, acionado por um botão dentro do card. O modal é exibido de forma responsiva e se adapta ao tamanho da tela.
+- **Menu Hambúrguer:** Um menu de navegação para as redes sociais, que pode ser aberto e fechado clicando no botão com a setinha.
 
-## REQUISITOS
+## Requisitos Implementados
 
-### Requisitos Obrigatórios:
+- O **card de artigo** foi implementado conforme o design especificado no **mockup**.
+- A aplicação é **totalmente responsiva**, ajustando-se a diferentes resoluções de tela.
+- O **menu hambúrguer** foi criado e funciona corretamente para abrir e fechar ao clicar no ícone de seta.
+- **Animações** foram aplicadas ao menu hambúrguer, tornando a experiência de navegação mais interativa.
+- **Animações** foram adicionadas ao menu hambúrguer, incluindo transições suaves na abertura e fechamento.
 
-- Implementar o card conforme figma
-- Responsividade
-- Criar menu hamburguer (menu das redes sociais). Ele deve fechar e abrir ao se clicar no botão com a setinha.
+## Como Usar
 
-### Requisitos Opcionais:
-
-- Adicionar animações ao menu hamburguer
-
-## LINKS UTEIS
-
-- Todos da atividade 1
-
-### Responsividade
-
-- [Como utilizar Media Queries para sites Responsivos](https://www.youtube.com/watch?v=AltqAPZzAqo)
-- [Responsividade para sites - Curso em Vídeo](https://youtu.be/WcGPSeuJDJ0)
-- [Guia de Monique para responsividade](https://www.notion.so/425dbd315a134d3ab1948f92f4323a01?pvs=21)
-
-### JavaScript
-
-Variáveis
-
-- [Variáveis (var, let, const e escopo) - Node Studio Treinamentos](https://youtu.be/GmG5FkF2Hlc)
-
-Funções
-
-- [Funções - Curso em Vídeo](https://youtu.be/mc3TKp2XzhI)
-- [funções - Matheus Battisti](https://youtu.be/ItzRdMj1lzw)
-
-DOM
-
-- [Introdução ao DOM - Curso em vídeo](https://youtu.be/WWZX8RWLxIk)
-- [Eventos DOM - Curso em vídeo](https://youtu.be/wWnBB-mZIvY)
-- [innerHTML property - nexTRIE](https://youtu.be/DSScGM_OtME)
-- [appendChild - Marcelo Espíndola](https://youtu.be/wqyVBiEPd7E)
-- [Events - Basic onclick Event - Intro to Web Apps](https://youtu.be/xj0DQI7N4Go)
-- [Event Handlers in Javascript - Programming With Avelx](https://youtu.be/7UstS0hsHgI)
-
-Menu
-
-- [Menu Mobile - HTML, CSS e JavaScript - Origamid](https://youtu.be/DnODupiIAiE)
-- [Responsive Navigation Menu - Deltaty Code](https://youtu.be/1iS0r238G4g)
-- [MODAL COM JAVASCRIPT - PROJETO DE HTML, CSS E JAVASCRIPT](https://youtu.be/kj6GFACwLYo?si=l8TFIRWYVyobk8nO)
-
-## Instruções para envio
-
-1. Clone este repositório no seu computador (caso já tenha clonado pule esse passo)
-2. Crie a partir da `main` uma nova branch com seu número de turma e nome. Por exemplo: `1-jose` caso pertença a turma 1. (caso já tenha criado pule esse passo)
-3. Construa a sua atividade apenas nessa branch, e não hesite em pedir por ajuda caso tenha dificuldades
-4. Suba constantemente a sua branch para este repositório para possibilitar o acompanhamento por parte dos orientadores
-5. Para saber se finalizou a atividade, verifique cuidadosamente se todos os requisitos foram cumpridos
-6. Após finalizar a atividade, faça um merge request com o padrão de título: `[número da atividade]` - `[nome da atividade]` (por exemplo: 2 - Coffee Shop)
-7. Esteja pronto para apresentar o que você fez na próxima RN (Reunião de Núcleo)
+1. Clone este repositório no seu computador.
+2. Abra o arquivo `index.html` em um navegador para visualizar a aplicação.
+3. O **card de artigo** e o **modal de compartilhamento** estarão visíveis na tela.
+4. Clique no **menu hambúrguer** para abrir e fechar a navegação das redes sociais.
