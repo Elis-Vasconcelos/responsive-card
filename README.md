@@ -24,11 +24,11 @@ A aplicação adapta-se a diferentes tamanhos de tela, garantindo uma boa experi
 
 ### Desktop
 
-![desktop-view](images/desktop-ativo.png)
+![desktop-view](images/desktop-ativo.png?raw=true)
 
 ### Mobile
 
-![mobile-view](images/mobile-ativo.png)
+![mobile-view](images/mobile-ativo.png?raw=true)
 
 ## Como Usar
 
